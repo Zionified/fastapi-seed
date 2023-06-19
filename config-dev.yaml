@@ -1,0 +1,10 @@
+DB:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "[YOUR SERVER PASSWORD]"
+  name: "[YOUR DB]"
+  echo: False
+
+server:
+  secret: "[RANDOMLY GENERATED STRING TO GENERATE JWT]"
